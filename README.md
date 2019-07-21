@@ -1,4 +1,5 @@
-<h1>Fast Face Mask Overlay<h1>
+<h1>Fast Face Mask Overlay</h1>
+<p>A test implementation of a smaller scale snapchat; puts a mask over a face. The mask is 2D however, compared to snapchat's 3D model.</p>
   <h3>Features:</h3>
   <ul>
     <li>Overlays a 2D mask on a detected face from a live webcam stream</li>
